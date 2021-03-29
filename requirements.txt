@@ -14,7 +14,7 @@ psutil==5.7.0
 pwntools==4.1.2
 pycparser==2.20
 pyelftools==0.26
-Pygments==2.6.1
+Pygments==2.7.4
 PyNaCl==1.4.0
 pyparsing==2.4.7
 pyserial==3.4
