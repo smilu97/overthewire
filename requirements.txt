@@ -25,4 +25,4 @@ ROPGadget==6.3
 six==1.15.0
 sortedcontainers==2.2.2
 unicorn==1.0.2rc3
-urllib3==1.25.9
+urllib3==1.26.5
